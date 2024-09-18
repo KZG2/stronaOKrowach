@@ -1,0 +1,33 @@
+header{background-color: cadetblue;
+    height: 50px;
+
+}
+
+
+
+footer{background-color: darkgrey;
+height: 20px;
+
+
+}
+
+menu{background-color: darkgrey;
+height: 20px;
+margin: 0%;
+}
+.jeden{
+ 
+    display: grid;
+    grid-template-columns: 12% 76% 12%;
+
+
+
+}
+.aside{height: 200px;background-color: aquamarine;} 
+.nav{height: 200px; background-color: hotpink;}
+.section{height: 200px;background-color: darkkhaki;}
+body{padding: 0%;
+text-align: center;
+margin-left:6px ; 
+margin-right: 4px;
+}
